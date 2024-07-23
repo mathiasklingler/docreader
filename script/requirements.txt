@@ -1,5 +1,0 @@
-docx2txt
-PyPDF2
-Pillow
-PyQt5
-flask
